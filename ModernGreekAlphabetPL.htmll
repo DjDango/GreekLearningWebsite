@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang='pl'>
+  <head>
+    <title>Grecki Alfabet</title>
+    <meta charset='utf-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+  </head>
+  <body>
+    <h1>The Greek Alphabet</h1>
+    <p>Grecki alfabet był stworzony w IV wieku.Teoretyzuje się, że nowogrecki alfabet powstał około 1453 roku; upadek Cesarstwa Bizantyjskiego. 
+      Jedyną różnicą nowogreckim a starogreckim alfabetem jest wymowa, więc zacznijmy!</p>
+    <h3>Starogrecki alfabet</h3>
+    <ol>
+      <li><h4>Α α - Alpha</h4></li>
+      <li><h4>Β β - Beta</h4></li>
+      <li><h4>Γ γ -Gamma</h4></li>
+      <li><h4>Δ δ - Delta</h4></li>
+      <li><h4>Ε ε - Epsilon</h4></li>
+      <li><h4>Ζ ζ - Zeta</h4></li>
+      <li><h4>Η η -Eta</h4></li>
+      <li><h4>Θ θ - Theta</h4></li>
+      <li><h4>Ι ι - Iota</h4></li>
+      <li><h4>Κ κ - Kappa</h4></li>
+      <li><h4>Λ λ - Lambda</h4></li>
+      <li><h4>Μ μ - Mu</h4></li>
+      <li><h4>Ν ν - Nu</h4></li>
+      <li><h4>Ξ ξ - Xi</h4></li>
+      <li><h4>Ο ο - Omikron</h4></li>
+      <li><h4>Π π - Pi</h4></li>
+      <li><h4>Ρ ρ - Rho</h4></li>
+      <li><h4>Σ σ ς- Sigma</h4></li>
+      <li><h4>Τ τ - Tau</h4></li>
+      <li><h4>Υ υ - Ypsilon</h4></li>
+      <li><h4>Φ φ - Phi</h4></li>
+      <li><h4>Χ χ -Chi</h4></li>
+      <li><h4>Ψ ψ - Psi</h4></li>
+      <li><h4>Ω ω - Omega</h4></li>
+    </ol>
+    <h3>Nowogrecki alfabet</h3>
+    <ol>
+      <li><h4>Α α - Alpha</h4></li>
+      <li><h4>Β β - Vita</h4></li>
+      <li><h4>Γ γ -Gamma</h4></li>
+      <li><h4>Δ δ - Delta</h4></li>
+      <li><h4>Ε ε - Epsilon</h4></li>
+      <li><h4>Ζ ζ - Zita</h4></li>
+      <li><h4>Η η -Ita</h4></li>
+      <li><h4>Θ θ - Thita</h4></li>
+      <li><h4>Ι ι - Iota</h4></li>
+      <li><h4>Κ κ - Kappa/h4></li>
+      <li><h4>Λ λ - Lamda</h4></li>
+      <li><h4>Μ μ - Mi</h4></li>
+      <li><h4>Ν ν - Ni</h4></li>
+      <li><h4>Ξ ξ - Xi</h4></li>
+      <li><h4>Ο ο - Omikron</h4></li>
+      <li><h4>Π π - Pi</h4></li>
+      <li><h4>Ρ ρ - Rho</h4></li>
+      <li><h4>Σ σ ς- Sigma</h4></li>
+      <li><h4>Τ τ - Taf</h4></li>
+      <li><h4>Υ υ - Ypsilon</h4></li>
+      <li><h4>Φ φ - Phi</h4></li>
+      <li><h4>Χ χ -Chi</h4></li>
+      <li><h4>Ψ ψ - Psi</h4></li>
+      <li><h4>Ω ω - Omega</h4></li>
+    </ol>
+    <p>Jest 24 literek w nowogreckim alfabecie.</p>
+    <p>Czy wiedziałeś że słowo "Alfabet" pochodzi z 2 pierwszych liter z starogreckiego alfabetu? "Alpha" i "Beta".</p>
+  </body>
+</html>
